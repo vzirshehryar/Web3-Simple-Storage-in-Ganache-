@@ -1,0 +1,10 @@
+# Ignore artifacts:
+build
+coverage
+
+# Ignore node_modules:
+node_modules
+
+# Ignore compiled files:
+compiled
+
